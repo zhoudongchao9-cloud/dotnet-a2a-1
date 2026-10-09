@@ -15,7 +15,7 @@ Key features include:
 - **ASP.NET Core Integration**: Built-in extensions for hosting A2A agents in web applications
 - **Cross-platform Compatibility**: Supports .NET 8+
 
-## Protocol Compatibility
+## Protocol Compatibilities
 
 This library implements the [A2A v1.0 specification](https://a2a-protocol.org). It provides full support for the JSON-RPC binding and HTTP+JSON REST binding, including streaming via Server-Sent Events.
 
