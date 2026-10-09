@@ -71,7 +71,7 @@ This library provides ASP.NET Core integration for hosting A2A agents. It includ
 - **`A2AServiceCollectionExtensions`**: Provides `AddA2AAgent<THandler>()` for registering an agent, its card, and all A2A services with dependency injection.
 - **`A2ARouteBuilderExtensions`**: Provides `MapA2A()` for JSON-RPC endpoints, `MapHttpA2A()` for HTTP REST endpoints, and `MapWellKnownAgentCard()` for agent card discovery.
 
-## Getting Started
+## Getting Start
 
 ### 1. Create an Agent Server
 
